@@ -10,3 +10,5 @@ The LIGHT GCN approach may introduce modifications to improve the efficiency, sc
 The paper may present experimental results on benchmark datasets to demonstrate the effectiveness of the proposed LIGHT GCN method. It could compare its performance against other state-of-the-art GCN models, showcasing improvements in terms of accuracy, training speed, or memory efficiency.
 
 We have improved the model accuracy by performing multiclass classification on Movie lens data and compared our results to the original paper which shows slight improvement even though we they used amazon book data which is quiet synonamous to movie lens
+
+THE CODE HAS BEEN EXPLAINED IN DETAIL FOR ANY FURTHUR INFO FEEL FREE TO CONTACT ME ON MY EMAIL (kazimsyedmehdi@gmail.com)
